@@ -8,10 +8,10 @@
 - 😄 Pronouns: He/Him/El
 - ⚡ Fun fact: Zelda Apasionated
 -->
-###Contact With Me:
+##Contact With Me:
 -juan.vasconez@yachaytech.edu.ec
 -Linkedin: [Juanda Vasconez](https://www.linkedin.com/in/juan-vasconez-546892110/)
-###Languages And Tools:
+##Languages And Tools:
 <p align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" width="40" height="40"/>
