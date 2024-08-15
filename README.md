@@ -1,16 +1,18 @@
-## Hi there 👋 Im Juanda Vasconez
-
-
+# <center>Hi there 👋 Im Juanda Vasconez</center>
+<center> Im a Physics Student and coding apassionate at Ecuador </center>
+---
 - 🔭 I’m currently working on [Diversa](https://www.linkedin.com/company/diversa-ai?originalSubdomain=ec)
 - 🌱 I’m currently learning Quantum Mechanics and Deep Learning
 - 💬 Ask me about Python, C++, HTML, Artificial Inteligence, Machine Learning, LLMS
 - 📫 How to reach me: juanda@diversa.studio
 - 😄 Pronouns: He/Him/El
 - ⚡ Fun fact: Zelda Apasionated
--->
+--><br>
+<br>
 ##Contact With Me:
 -juan.vasconez@yachaytech.edu.ec
--Linkedin: [Juanda Vasconez](https://www.linkedin.com/in/juan-vasconez-546892110/)
+-Linkedin: [Juanda Vasconez](https://www.linkedin.com/in/juan-vasconez-546892110/)<br>
+<br>
 ##Languages And Tools:
 <p align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/>
