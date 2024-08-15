@@ -14,6 +14,7 @@
 ---
 
 ## Contact With Me:
+- Email: juanda@diversa.studio
 - Email: juan.vasconez@yachaytech.edu.ec
 - LinkedIn: [Juanda Vasconez](https://www.linkedin.com/in/juan-vasconez-546892110/)
 
