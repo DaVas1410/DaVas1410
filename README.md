@@ -1,19 +1,25 @@
-# <center>Hi there 👋 Im Juanda Vasconez</center>
-<center> Im a Physics Student and coding apassionate at Ecuador </center>
+<h1 align="center">Hi there 👋 Im Juanda Vasconez</h1>
+
+<p align="center">I'm a Physics Student and coding passionate from Ecuador</p>
+
 ---
+
 - 🔭 I’m currently working on [Diversa](https://www.linkedin.com/company/diversa-ai?originalSubdomain=ec)
 - 🌱 I’m currently learning Quantum Mechanics and Deep Learning
-- 💬 Ask me about Python, C++, HTML, Artificial Inteligence, Machine Learning, LLMS
+- 💬 Ask me about Python, C++, HTML, Artificial Intelligence, Machine Learning, LLMs
 - 📫 How to reach me: juanda@diversa.studio
 - 😄 Pronouns: He/Him/El
-- ⚡ Fun fact: Zelda Apasionated
---><br>
-<br>
-# Contact With Me:
--juan.vasconez@yachaytech.edu.ec
--Linkedin: [Juanda Vasconez](https://www.linkedin.com/in/juan-vasconez-546892110/)<br>
-<br>
-# Languages And Tools:
+- ⚡ Fun fact: Zelda Enthusiast
+
+---
+
+## Contact With Me:
+- Email: juan.vasconez@yachaytech.edu.ec
+- LinkedIn: [Juanda Vasconez](https://www.linkedin.com/in/juan-vasconez-546892110/)
+
+---
+
+## Languages And Tools:
 <p align="left">
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" width="40" height="40"/>
