@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 Im Juanda Vasconez</h1>
 
-<p align="center">I'm a Physics Student and coding passionate from Ecuador</p>
+<p align="center">I'm a Physics Undergrade Student and coding passionate from Ecuador</p>
 
 ---
 
