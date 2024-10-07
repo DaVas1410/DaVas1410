@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Diversa](https://www.linkedin.com/company/diversa-ai?originalSubdomain=ec)
 - 🌱 I’m currently learning Quantum Mechanics and Deep Learning
-- 💬 Ask me about Python, HTML, Artificial Intelligence, Machine Learning, LLMs, Computer Vision, Deep Learning
+- 💬 Ask me about Python, HTML, Artificial Intelligence, Machine Learning, LLMs.
 - 📫 How to reach me: juanda@diversa.studio
 - 😄 Pronouns: He/Him/El
 - ⚡ Fun fact: Zelda Enthusiast
