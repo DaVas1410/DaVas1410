@@ -34,10 +34,10 @@
   <img src="https://cdn.simpleicons.org/sqlalchemy/D71F00" alt="SQLAlchemy" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/figma/F24E1E" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/archlinux/1793D1" alt="Arch Linux" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" alt="Ubuntu" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/wondersharefilmora/02A9FF" alt="Wondershare Filmora" width="40" height="40"/>
-  <img src="https://cdn.simpleicons.org/davinciresolve/FFFFF" alt="DaVinci Resolve" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/archlinux/1793D1" alt="" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" alt="" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/wondersharefilmora/02A9FF" alt="" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/davinciresolve/FFFFF" alt="" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/css/663399" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/openai/412991" alt="CSS" width="40" height="40"/>
