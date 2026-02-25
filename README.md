@@ -39,11 +39,6 @@
   <img src="https://cdn.simpleicons.org/davinciresolve/FFFFF" alt="" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/css/663399" alt="CSS" width="40" height="40"/>
-
-  ## Skills / Abilities
-
-<p align="left">
-  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" height="40"/>
@@ -52,6 +47,8 @@
   <img src="https://cdn.simpleicons.org/scipy/8CAAE6" alt="SciPy" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn" width="40" height="40"/>
 </p>
+
+  ## Skills / Abilities
 
 ### Physics & Math
 - Linear algebra, multivariable calculus, differential equations
