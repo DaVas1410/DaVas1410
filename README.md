@@ -39,5 +39,53 @@
   <img src="https://cdn.simpleicons.org/davinciresolve/FFFFF" alt="" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/css/663399" alt="CSS" width="40" height="40"/>
+
+  ## Skills / Abilities
+
+<p align="left">
+  <img src="https://cdn.simpleicons.org/linux/FCC624" alt="Linux" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" alt="Bash" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/docker/2496ED" alt="Docker" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/pandas/150458" alt="pandas" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/scipy/8CAAE6" alt="SciPy" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn" width="40" height="40"/>
+</p>
+
+### Physics & Math
+- Linear algebra, multivariable calculus, differential equations
+- Probability & statistics (incl. Bayesian thinking)
+- Numerical methods & scientific computing
+- Signal processing / Fourier methods
+- Core physics background: classical mechanics, E&M, quantum mechanics, statistical mechanics
+
+### Data Science
+- Data cleaning, EDA, feature engineering
+- Data visualization & storytelling
+- Model evaluation, cross-validation, error analysis
+- SQL for analytics (joins, aggregations, schema thinking)
+- Time series (if/when applicable)
+
+### Machine Learning / Deep Learning
+- Supervised & unsupervised learning (scikit-learn)
+- Deep learning with PyTorch / Keras (training loops, optimization, regularization)
+- Computer vision basics (OpenCV; CNN-based workflows)
+
+### NLP / LLMs
+- Embeddings & semantic search
+- RAG fundamentals (chunking, retrieval, prompting)
+- Prompt engineering & lightweight evaluation
+
+### Engineering, Linux & HPC
+- Linux proficiency (shell scripting, environments, tooling)
+- HPC / cluster workflows (job scheduling concepts; Slurm/PBS if applicable)
+- Reproducible experiments (configs, seeds, environments)
+- Containerization basics (Docker) and model/API deployment basics (FastAPI/Flask if applicable)
+- Version control & collaboration (Git/GitHub)
+
+### Research Workflow
+- Reading papers and implementing ideas from literature
+- Scientific writing (LaTeX) and communicating results (reports/slides)
   <img src="https://cdn.simpleicons.org/openai/412991" alt="CSS" width="40" height="40"/>
 </p>
