@@ -7,14 +7,15 @@
 - 🔭 I’m currently working on [Diversa](https://www.linkedin.com/company/diversa-ai?originalSubdomain=ec)
 - 🌱 I’m currently learning Quantum Mechanics and Deep Learning
 - 💬 Ask me about Python, HTML, Artificial Intelligence, Machine Learning, LLMs.
-- 📫 How to reach me: juanda@diversa.studio
+- 📄 CV: https://drive.google.com/file/d/1Rg5M4UwSlNnDCAiD7NoG7LXx7PDDMr3M/view?usp=sharing
+- 📫 How to reach me: juan.vasconezvela@gmail.com
 - 😄 Pronouns: He/Him/El
 - ⚡ Fun fact: Zelda Enthusiast
 
 ---
 
 ## Contact With Me:
-- Email: juanda@diversa.studio
+- Email: juan.vasconezvela@gmail.com
 - Email: juan.vasconez@yachaytech.edu.ec
 - LinkedIn: [Juanda Vasconez](https://www.linkedin.com/in/juan-vasconez-546892110/)
 
@@ -39,7 +40,4 @@
   <img src="https://cdn.simpleicons.org/html5/E34F26" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/css/663399" alt="CSS" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/openai/412991" alt="CSS" width="40" height="40"/>
-
-
-
 </p>
